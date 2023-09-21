@@ -1,1 +1,1 @@
-
+Pendant ma deuxième année de Licence Double-Diplôme Mathématiques Sciences de la Vie j'ai été ammenée à faire un stage scientifique de recherche. J'ai eu l'occasion de travailler sur la modélisation des tumeurs cérébrales un mois et demi au laboratoire iJCLab, CNRS à Orsay. Vous pouvez trouver ci-joint mon rapport de stage ainsi qu'une version pdf des codes python que j'ai produit. 
